@@ -78,7 +78,7 @@ html5lib==1.1
     # via wagtail
 humanize==4.6.0
     # via delorean
-idna==3.4
+idna==3.7
     # via requests
 iso8601==1.1.0
     # via colander
