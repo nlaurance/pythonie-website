@@ -60,3 +60,4 @@ sqlparse==0.4.3
     #   django-debug-toolbar
 tomli==2.0.1
     # via black
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
