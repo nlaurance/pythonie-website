@@ -90,7 +90,7 @@ l18n==2021.3
     # via wagtail
 libsass==0.22.0
     # via django-libsass
-lxml==4.9.2
+lxml==6.1.0
     # via wagtail-blog
 numpy==1.24.2
     # via pandas
