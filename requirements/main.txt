@@ -98,7 +98,7 @@ openpyxl==3.1.2
     # via tablib
 pandas==1.5.3
     # via -r requirements/main.in
-pillow==9.5.0
+pillow==13.0.0
     # via wagtail
 pydantic==1.10.7
     # via -r requirements/main.in
@@ -137,7 +137,7 @@ six==1.16.0
     #   html5lib
     #   l18n
     #   python-dateutil
-soupsieve==2.4
+soupsieve==4.0.1
     # via beautifulsoup4
 sqlparse==0.4.3
     # via django
